@@ -9,10 +9,13 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
     "autoload": {
         "psr-4": {
             "Otsaplin\\ZadarmaApi\\": "src/"
         }
-    }
+    },
+    "prefer-stable": true
 }
