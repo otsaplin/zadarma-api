@@ -1,0 +1,8 @@
+# IDE & System Related Files #
+composer.phar
+
+# Test Related Files #
+/test/
+
+# Composer
+/vendor/
